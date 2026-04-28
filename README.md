@@ -1,5 +1,7 @@
 # CSS Display Demo
 
+Web Link: https://karanjthakur.github.io/CSS-Display/
+
 This folder contains a simple HTML and JavaScript demo that explains how CSS `display` values affect layout.
 
 ## What it shows
